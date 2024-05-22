@@ -2,7 +2,7 @@ package HospitalManagementSystem;
 
 import java.sql.*;
 import java.util.Scanner;
-
+// for day 2 i add commit here
 public class HospitalManagementSystem {
     private static final String url = "jdbc:mysql://localhost:3306/hospital";
     private static final String username = "root";
